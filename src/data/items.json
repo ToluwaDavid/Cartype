@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Afang",
+        "price": 10.99,
+        "imgUrl": "/imgs/afang.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Amala",
+        "price": 1199,
+        "imgUrl": "/imgs/amala.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jollof",
+        "price": 1.05,
+        "imgUrl": "/imgs/jollof.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Masa",
+        "price": 14000,
+        "imgUrl": "/imgs/masa.jpg"
+    }
+]
